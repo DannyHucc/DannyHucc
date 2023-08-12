@@ -1,30 +1,41 @@
 <h1  align="Center"> Hi There, I'm Danny <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40px"  />  </h1>
 
+## 😃 About Me
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyHucc&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
-## About Me
-- 🌱 I am looking for a backend engineering position located in Taipei or remote.
-- 📖 In my free time, I enjoy playing badminton, reading novels.
-- 😃 It will be a pleasure to talk with you.
+- 💻 I am looking for a backend engineering position located in Taipei or remote.
+- 🌱 I’m currently learning **Node.js, JavaScript, Express, and some backend stuff**.
+- 📝 I regularly write articles on [Medium](https://medium.com/@danny_hu).
+- 🚴‍♂️ In my free time, I enjoy playing badminton, reading novels.
+- 📫 Reach me at **dannyhu10011101@gmail.com**.
 
-## Tech Stack
+## 📂 Projects
+
+- [Forum Express Grading](https://forum-express-grading.fly.dev/signin) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/forum-express-grading)
+- [Expense Tracker](https://my-expense-tracker.fly.dev/users/login) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/expense-tracker)
+
+## ⛏ Technologies & Tools
+
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+  ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
- [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyHucc&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/DannyHucc)
+ ## 📊 Github Stats
 
-## Most Used Languages
- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHucc&layout=pie)](https://github.com/DannyHucc)
+<p>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=DannyHucc&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHucc&layout=compact&theme=tokyonight" />
+</p>
