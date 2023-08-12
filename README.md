@@ -1,5 +1,7 @@
 <h1  align="Center"> Hi There, I'm Danny <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40px"  />  </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyHucc&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
+
 ## About Me
 - 🌱 I am looking for a backend engineering position located in Taipei or remote.
 - 📖 In my free time, I enjoy playing badminton, reading novels.
