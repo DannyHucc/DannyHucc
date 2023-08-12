@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyHucc&label=Profile%20views&color=0e75b6&style=flat" alt="kellychi22" /> </p>
 
-- 💻 I am looking for a backend engineering position located in Taipei or remote.
+- 💻 I am looking for a backend engineering, This is my [Linkedin](https://www.linkedin.com/in/danny-hu-7757b8259/).
 - 🌱 I’m currently learning **Node.js, JavaScript, Express, and some backend stuff**.
 - 📝 I regularly write articles on [Medium](https://medium.com/@danny_hu).
 - 🚴‍♂️ In my free time, I enjoy playing badminton, reading novels.
