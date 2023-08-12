@@ -1,4 +1,4 @@
-### Hey There! I'm Danny👋
+<h1  align="Center"> Hi There, I'm Danny <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40px"  />  </h1>
 
 ## About Me
 - 🌱 I am looking for a backend engineering position located in Taipei or remote.
@@ -25,4 +25,4 @@
  [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyHucc&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/DannyHucc)
 
 ## Most Used Languages
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHucc&layout=pie)](https://github.com/DannyHucc)
+ [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHucc&layout=pie)](https://github.com/DannyHucc)
