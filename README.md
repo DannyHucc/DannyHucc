@@ -12,7 +12,6 @@
 
 ## 📂 Projects
 
-- [Forum Express Grading](https://forum-express-grading.fly.dev/signin) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/forum-express-grading)
 - [Expense Tracker](https://my-expense-tracker.fly.dev/users/login) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/expense-tracker)
 
 ## ⛏ Technologies & Tools
