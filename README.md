@@ -12,9 +12,9 @@
 
 ## 📂 Projects
 
-- [Expense Tracker](https://my-expense-tracker.fly.dev/users/login) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/expense-tracker)
-- [JavaScript30-danny](https://dannyhucc.github.io/JavaScript30-danny/) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/JavaScript30-danny)
-- [Forum Express Grading](https://github.com/DannyHucc/forum-express-grading) - A place where you can create and share your wildest how-to ideas! 🤯 → [Repo](https://github.com/DannyHucc/forum-express-grading)
+- [Expense Tracker](https://my-expense-tracker.fly.dev/users/login) - [Repo](https://github.com/DannyHucc/expense-tracker)
+- [Forum Express Grading](https://github.com/DannyHucc/forum-express-grading) - [Repo](https://github.com/DannyHucc/forum-express-grading)
+- [JavaScript30-danny](https://dannyhucc.github.io/JavaScript30-danny/) - [Repo](https://github.com/DannyHucc/JavaScript30-danny)
 
 ## ⛏ Technologies & Tools
 
